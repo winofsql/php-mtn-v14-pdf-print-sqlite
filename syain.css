@@ -1,0 +1,50 @@
+@charset "utf-8";
+
+#iframe1 {
+    position: absolute;
+    left: 600px;
+    top: 320px;
+    background-color: white;
+    display: none;
+    border: 1px solid #c0c0c0;
+}
+#iframe2 {
+    position: absolute;
+    left: 650px;
+    top: 120px;
+    background-color: white;
+    display: none;
+    border: 1px solid #c0c0c0;
+}
+
+#content {
+    margin: 26px;
+}
+
+.entry {
+    display: inline-block;
+}
+.left {
+    width: 100px;
+}
+.right {
+    width: 300px;
+}
+
+/* 小さなテキスト入力サイズ */
+.w100 {
+    width:100px;
+}
+/* その他サイズ */
+.w200 {
+    width:200px;
+}
+
+/* 入力の行間隔 */
+.entry {
+    margin-bottom: 20px;
+}
+
+.form-control {
+    border: 1px solid #000000;
+}

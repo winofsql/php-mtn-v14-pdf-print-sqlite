@@ -1,0 +1,9 @@
+@charset "utf-8";
+
+#main{
+    padding:0px 0px 0px 30px;
+}
+
+.text-block{
+    display:inline-block;
+}
