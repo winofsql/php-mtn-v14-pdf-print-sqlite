@@ -291,8 +291,8 @@ function check(){
 
 </div>
 
-<iframe width="800" height="400" src="req/mysql-query.php" id="iframe1"></iframe>
-<iframe width="800" height="400" src="req2/mysql-query.php" id="iframe2"></iframe>
+<iframe width="800" height="400" src="req/sqlite-query.php" id="iframe1"></iframe>
+<iframe width="800" height="400" src="req2/sqlite-query.php" id="iframe2"></iframe>
 
 </body>
 </html>
