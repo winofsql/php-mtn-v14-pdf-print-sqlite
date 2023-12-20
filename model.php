@@ -27,7 +27,7 @@ QUERY;
         }
         else {
             $syozoku_option .=
-                "<option value='{$row[0]}'>{$row["名称"]}</option>";
+                "<option value='{$row[1]}'>{$row["名称"]}</option>";
         }
     }
 
